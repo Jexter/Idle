@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idle</string>
+    <string name="Items">Tab 1</string>
+    <string name="Upgrades">Tab 2</string>
+</resources>
